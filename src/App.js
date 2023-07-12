@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import "./App.css";
 import Homepage from "./Homepage";
 import Authenticate from "./authenticate/Authenticate";
